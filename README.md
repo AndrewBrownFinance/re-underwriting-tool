@@ -4,7 +4,7 @@ Underwrites a commercial real estate deal end to end and produces a client-ready
 deliverable package: a levered and unlevered DCF model, IRR / equity multiple / DSCR,
 a 25-scenario sensitivity grid, and a drafted investment memo.
 
-Built by **Andrew Brown** — [dealroutes.com](https://dealroutes.com)
+Built by **Andrew Brown** - [dealroutes.com](https://dealroutes.com)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AndrewBrownFinance/re-underwriting-tool/blob/main/Underwriting_Tool.ipynb)
 
