@@ -6,6 +6,9 @@ a 25-scenario sensitivity grid, and a drafted investment memo.
 
 Built by **Andrew Brown** — [dealroutes.com](https://dealroutes.com)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Andrewdatank/re-underwriting-tool/blob/main/Underwriting_Tool.ipynb)
+
+
 ---
 
 ## What it produces
@@ -26,11 +29,18 @@ Memo), alongside a formatted Word memo.
 
 ---
 
-## Use
+## Try it with your own numbers
 
-Open `Underwriting_Tool.ipynb` in Jupyter. Run Section 0 (it installs anything missing),
-edit the `DEAL` box in Section 2, then Run All. The notebook is self-contained — it is
-the only file you need to run it.
+**No install — run it in the browser.** Click the *Open in Colab* badge above, edit the
+`DEAL` box in Section 2, then Runtime → Run all. Nothing to download.
+
+**Or just use the Excel file.** `Example_Underwriting_Model.xlsx` is a live model. Open
+the Assumptions tab, type over the yellow input cells, and every figure recalculates —
+no Python required.
+
+**Or run it locally.** Open `Underwriting_Tool.ipynb` in Jupyter. Run Section 0 (it
+installs anything missing), edit the `DEAL` box, then Run All. The notebook is
+self-contained — it is the only file you need.
 
 ```python
 DEAL = {
