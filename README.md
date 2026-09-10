@@ -7,6 +7,15 @@ a 25-scenario sensitivity grid, and a drafted investment memo.
 Built by **Andrew Brown** - [dealroutes.com](https://dealroutes.com)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AndrewBrownFinance/re-underwriting-tool/blob/main/Underwriting_Tool.ipynb)
+### Run it in your browser — no setup
+
+**[Open the live tool →](https://dealroutes.com/underwriting)**
+
+A hosted version of this model runs entirely in the browser. Enter a deal, get returns,
+a sensitivity grid, and a drafted memo. Nothing to install.
+
+The notebook in this repository is the reference implementation: same math, plus batch
+deal screening and the formatted Excel export.
 
 
 ---
